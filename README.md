@@ -11,7 +11,24 @@ GitHub CommitPersist improves your workflow during commit reviews on GitHub by r
 Install from the Chrome Web Store and it's ready to go. No additional steps required.
 
 ## Usage
-Just review files in GitHub as usual. The extension takes care of the rest, preserving the state of each file across sessions.
+
+To manually install this extension as a developer, follow these steps:
+
+1. **Clone the Repository**: First, you need to clone the repository to your local machine. You can do this by running the following command in your terminal:
+
+    ```bash
+    git clone https://github.com/bmind12/GitHub-CommitPersist.git
+    ```
+
+2. **Open Chrome Extensions Page**: In your Chrome browser, navigate to `chrome://extensions`.
+
+3. **Enable Developer Mode**: On the top right corner of the extensions page, toggle on the "Developer mode" switch.
+
+4. **Load Unpacked Extension**: Click on the "Load unpacked" button that appears on the top left corner of the page.
+
+5. **Select the Extension Directory**: Navigate to the directory where you cloned the GitHub-CommitPersist repository and select it.
+
+The extension should now be installed on your Chrome browser. You can start using it by reviewing files on GitHub as usual. The extension will automatically remember the collapsed or expanded state of files during your commit reviews.
 
 ## Support
 For issues or suggestions, please open an issue on our GitHub repository.
