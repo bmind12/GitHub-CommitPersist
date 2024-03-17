@@ -7,9 +7,6 @@ GitHub CommitPersist improves your workflow during commit reviews on GitHub by r
 - **Automatic State Saving**: Remembers your file view preferences during commit reviews.
 - **Easy to Use**: Seamlessly integrates with GitHub, requiring no manual setup.
 
-## Installation
-Install from the Chrome Web Store and it's ready to go. No additional steps required.
-
 ## Usage
 
 To manually install this extension as a developer, follow these steps:
@@ -31,8 +28,4 @@ To manually install this extension as a developer, follow these steps:
 The extension should now be installed on your Chrome browser. You can start using it by reviewing files on GitHub as usual. The extension will automatically remember the collapsed or expanded state of files during your commit reviews.
 
 ## Support
-For issues or suggestions, please open an issue on our GitHub repository.
-
----
-
-Simplify your commit reviews on GitHub with CommitPersist, keeping your focus where it needs to be.
+For issues or suggestions, please open an issue on this repository.
